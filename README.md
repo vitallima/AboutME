@@ -23,7 +23,7 @@ facebook: [https://www.facebook.com/vitallimastatus/](https://www.facebook.com/v
 
 ## Formação
 
-* Graduando em Sistemas de Informação pelo (Ceuma) 
+* Graduando em Sistemas de Informação pelo (Universidade Ceuma) 
 
 --- 
 
