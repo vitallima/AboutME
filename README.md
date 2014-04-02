@@ -1,4 +1,4 @@
-# Vital Lima (currículo)
+# Vital Lima
 
 Local: São Luis - Maranhão | Idade: 21 anos
 
