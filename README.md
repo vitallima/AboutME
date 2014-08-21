@@ -69,6 +69,8 @@ Atualmente trabalho na [Maximize](http://www.maximize.com.br/infografico/sao-joa
 * Skatista mais ou menos.
 * Goleiro. Sério!
 
+
+## Contato
 twitter: [@_vitallima](https://twitter.com/_vitallima "pessoal")  
 github: [https://github.com/vitallima](https://github.com/vitallima "pessoal")  
 facebook: [https://www.facebook.com/vitallimastatus/](https://www.facebook.com/vitallimastatus/ "pessoal")
