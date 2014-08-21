@@ -30,7 +30,7 @@ Responsabilidades: Criar e desenvolver sites para a web, gerenciar o cms de todo
 
 ##Atualmente
 
-Atualmente trabalho na Maximize [Maximize](http://www.maximize.com.br/infografico/sao-joao/ "Link") e realizo alguns freelas para empresas da cidade de são luis.
+Atualmente trabalho na [Maximize](http://www.maximize.com.br/infografico/sao-joao/ "Link") e realizo alguns freelas para empresas da cidade de são luis.
 
 ##Tecnologias de trabalho
 
@@ -53,9 +53,6 @@ Atualmente trabalho na Maximize [Maximize](http://www.maximize.com.br/infografic
 
 * Por enquanto são essas :)
 
-twitter: [@vitallimacod](https://twitter.com/vitallimacod "pessoal")  
-github: [https://github.com/vitallima](https://github.com/vitallima "pessoal")  
-facebook: [https://www.facebook.com/vitallimastatus/](https://www.facebook.com/vitallimastatus/ "pessoal") 
 
 ## Conhecimentos
 
@@ -71,6 +68,10 @@ facebook: [https://www.facebook.com/vitallimastatus/](https://www.facebook.com/v
 ## Outros
 * Skatista mais ou menos.
 * Goleiro. Sério!
+
+twitter: [@_vitallima](https://twitter.com/_vitallima "pessoal")  
+github: [https://github.com/vitallima](https://github.com/vitallima "pessoal")  
+facebook: [https://www.facebook.com/vitallimastatus/](https://www.facebook.com/vitallimastatus/ "pessoal")
 
 --- 
   
