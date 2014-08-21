@@ -28,6 +28,7 @@ Universidade Ceuma.
 Universidade Ceuma, de junho/2013 até maio/2014.
 Responsabilidades: Criar e desenvolver sites para a web, gerenciar o cms de todos os portais, gerenciar conteúdo em sites, elaborar novas ferramentas.
 
+
 ##Atualmente
 
 Atualmente trabalho na [Maximize](http://www.maximize.com.br/infografico/sao-joao/ "Link") e realizo alguns freelas para empresas da cidade de são luis.
