@@ -9,7 +9,7 @@ para me manter atualizado nas novas tecnologias e tendências. Sou front end mas
 ## Formação
 * Graduando em Sistemas de Informação pelo (Universidade Ceuma).
 
-## Objetivos Profissionais:
+## Objetivos Profissionais
 
 Planejamento, criação e desenvolvimento de sites e sistemas para a web.
 Planejamento e criação de peças/campanhas publicitárias (incluindo mídias sociais).
