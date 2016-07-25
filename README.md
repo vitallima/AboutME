@@ -1,10 +1,8 @@
 # Vital Lima
 
-Local: São Luis - Maranhão | Idade: 21 anos
+Local: São Luis - Maranhão
 
-Sou desenvolvedor web a 2 anos, mais especificamente com Front End, Apple quase maníaco (não tenho nada deles, mais gosto como se preocupam com os minimos detalhes) e trabalho sempre escutando uma boa música. Gosto muito do que faço
-e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet 
-para me manter atualizado nas novas tecnologias e tendências. Sou front end mas trabalho um pouco com php.
+Um amante do desenvolvimento Front End, um Apple quase maníaco (não tenho nada deles rsrs, mais gosto como se preocupam com os minimos detalhes). 
 
 ## Formação
 * Graduando em Sistemas de Informação pelo (Universidade Ceuma).
@@ -31,7 +29,7 @@ Responsabilidades: Criar e desenvolver sites para a web, gerenciar o cms de todo
 
 ##Atualmente
 
-Atualmente trabalho na [Maximize](http://www.maximize.com.br/infografico/sao-joao/ "Link") e realizo alguns freelas para empresas da cidade de são luis.
+Atualmente trabalho na [Maximize](http://www.maximize.com.br "Link") e realizo alguns freelas para empresas da cidade de são luis.
 
 ##Tecnologias de trabalho
 
@@ -54,7 +52,6 @@ Atualmente trabalho na [Maximize](http://www.maximize.com.br/infografico/sao-joa
 
 * Por enquanto são essas :)
 
-
 ## Conhecimentos
 
 * Front focado em conceito, navegação e usabilidade.
@@ -62,6 +59,7 @@ Atualmente trabalho na [Maximize](http://www.maximize.com.br/infografico/sao-joa
 * PHP (uma coisinha ali outra aqui).
 * Javascript (Tenho muito a aprender ainda, "não uso alert para test").
 * HTML e CSS (Stylus, Sass e less).
+* Desenvolvimento de aplicações usando WP (Wordpress).
 * Sistemas de controle de versão (git).
 * User experience e design.
 * Inglês suficiente para ler e entender.
@@ -69,7 +67,6 @@ Atualmente trabalho na [Maximize](http://www.maximize.com.br/infografico/sao-joa
 ## Outros
 * Skatista mais ou menos.
 * Goleiro. Sério!
-
 
 ## Contato
 twitter: [@_vitallima](https://twitter.com/_vitallima "pessoal")  
